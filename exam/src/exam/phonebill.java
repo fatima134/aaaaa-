@@ -3,6 +3,7 @@ package exam;
 public class phonebill {
 	String acct_num;
 	int num_units;
+	String name;
 	
 	phonebill(String acct_num, int num_units)
 	{
